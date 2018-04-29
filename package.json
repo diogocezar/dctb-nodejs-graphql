@@ -1,0 +1,24 @@
+{
+  "name": "dctb-nodejs-graphql",
+  "version": "1.0.0",
+  "description": "Just a simple studie of GraphQL with NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocezar/dctb-nodejs-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogocezar/dctb-nodejs-graphql/issues"
+  },
+  "homepage": "https://github.com/diogocezar/dctb-nodejs-graphql#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2"
+  }
+}
